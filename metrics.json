@@ -1,0 +1,12 @@
+{
+  "top15_customers_share_rides": 0.8169,
+  "top5_zones_share_rides": 0.4632,
+  "avg_idle_baseline_min": 7552.47,
+  "avg_idle_after_min": 6646.17,
+  "median_idle_baseline_min": 5268.45,
+  "median_idle_after_min": 4636.24,
+  "peak_coverage_baseline": 0.4357,
+  "peak_coverage_after": 0.5447,
+  "trips_share_making_45pct_revenue": 0.1579,
+  "n_trips_to_45pct_revenue": 8683
+}
